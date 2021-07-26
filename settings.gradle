@@ -1,0 +1,2 @@
+rootProject.name = "Identitiy_card_recyclerview"
+include ':app'
